@@ -1,2 +1,2 @@
-# ChicosProgramadores
+# CP
 programacion
